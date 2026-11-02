@@ -4,7 +4,7 @@ This repository contains the code and configurations for an automated pick-and-p
 
 ## 📽️ Demo Video
 
-Watch the full video of the robotic arm in action (pick-and-place via smartphone MQTT control):
+Watch the full video of the robotic arm in action (pick-and-place via smartphone MQTT controls):
 
 [![Watch the video](https://img.youtube.com/vi/3a9YwpJj9Qo/0.jpg)](https://youtu.be/3a9YwpJj9Qo)
 
